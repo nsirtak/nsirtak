@@ -2,9 +2,10 @@
 ### :woman_technologist: About Me :
 I am a Frontend Developer and QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👷 I’m currently doing ![](https://img.shields.io/badge/freelance-8A2BE2) work
-- 📫 How to reach me: <a href="mailto:nsirtakjob@gmail.com" alt="Natalia mail">
-  <img src="https://img.shields.io/badge/nsirtakjob@gmail.com-black?logo=gmail" title="Go To mail" alt="Natalia mail"/>
-</a>
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sirtak/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsirtakjob@gmail.com)
+
 
 ---
 
