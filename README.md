@@ -1,11 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Natalia)](https://git.io/typing-svg)
+<!--
 ### :woman_technologist: About Me :
 I am a Frontend Developer and QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👷 I’m currently doing ![](https://img.shields.io/badge/freelance-8A2BE2) work
 - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sirtak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsirtakjob@gmail.com)
-
+-->
 
 ---
 
